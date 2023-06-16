@@ -1,6 +1,9 @@
 # FinalGroupProjectCSCI201
 
-This is a final group project completed at USC by myself and other students in CSCI 201: Principles of Software Development
+This is a final group project completed at USC by myself and other students in CSCI 201: Principles of Software Development.
+
+Mahum's Contributions -
+I made substantial contributions to the TrojanOrdering project, primarily in the areas of frontend development and detailed design. Within this role, I demonstrated my expertise by creating comprehensive mockups that effectively guided the frontend implementation process; these were included as part of our final software documentation. Notably, I successfully implemented the login and registration pages, while introducing a feature that facilitated new user registrations through a convenient popup within the login page.To ensure the application's seamless functionality and high quality, I also participated in testing activities. 
 
 TrojanOrdering
 
@@ -29,11 +32,11 @@ Welcome to TrojanOrdering, a web application designed to streamline food deliver
 - Track your orders and manage your account through the application.
 
 *Contributors:
-Chetan Bagri
-Cameron Cho
-Cameron Davis
-Zack Mazaheri
-Mitch Pi
-Mahum Syed
-Matthew Shapiro
+Chetan Bagri,
+Cameron Cho,
+Cameron Davis,
+Zack Mazaheri,
+Mitch Pi,
+Mahum Syed,
+Matthew Shapiro,
 Steven Wang
