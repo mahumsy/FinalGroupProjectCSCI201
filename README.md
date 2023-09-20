@@ -13,7 +13,7 @@ Welcome to TrojanOrdering, a web application designed to streamline food deliver
 - Checkout page: Users can modify their cart, choose a delivery time, and place their order. The page validates the user's balance and empties the cart upon successful checkout.
 
 [![Login Page](https://cdn.glitch.global/b29dd3df-e938-4d03-84fc-259d988ad64d/Screenshot%202023-09-19%20at%2010.29.02%20PM.png?v=1695187747949)
-[!New User Registration Popup](https://cdn.glitch.global/b29dd3df-e938-4d03-84fc-259d988ad64d/Screenshot%202023-09-19%20at%2010.29.25%20PM.png?v=1695187769105)
+[![New User Registration Popup](https://cdn.glitch.global/b29dd3df-e938-4d03-84fc-259d988ad64d/Screenshot%202023-09-19%20at%2010.29.25%20PM.png?v=1695187769105)
 [![Home Page](https://cdn.glitch.global/b29dd3df-e938-4d03-84fc-259d988ad64d/Screenshot%202023-09-19%20at%2010.29.58%20PM.png?v=1695187802172)
 [![Restaurants Page](https://cdn.glitch.global/b29dd3df-e938-4d03-84fc-259d988ad64d/Screenshot%202023-09-19%20at%2010.30.22%20PM.png?v=1695187825927)
 [![Checkout Page](https://cdn.glitch.global/b29dd3df-e938-4d03-84fc-259d988ad64d/Screenshot%202023-09-19%20at%2010.30.44%20PM.png?v=1695187848298)
