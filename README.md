@@ -34,18 +34,7 @@ Welcome to TrojanOrdering, a web application designed to streamline food deliver
 - Select Deploy
 - Once deployment is finished, click the link to be taken to the Web App which is now hosted on Azure
 
-## Mahum's Contributions -
-I made substantial contributions to the TrojanOrdering project, primarily in the areas of front-end development and detailed design. Within this role, I demonstrated my expertise by creating comprehensive mockups that effectively guided the frontend implementation process; these were included as part of our final software documentation. Notably, I successfully implemented the login and registration pages, while introducing a feature that facilitated new user registrations through a convenient popup within the login page.To ensure the application's seamless functionality and high quality, I also participated in testing activities. 
 
-## For More Information
-You can take a look at our presentation slides which goes over our development process: [Link to Presentation](https://docs.google.com/presentation/d/1u6cs7GMIZfBNSA6kT-YYpojftKO2B-XYNxrgnoFWCCw/edit?usp=sharing)
+## Development Process
+[Link to Presentation](https://docs.google.com/presentation/d/1u6cs7GMIZfBNSA6kT-YYpojftKO2B-XYNxrgnoFWCCw/edit?usp=sharing)
 
-*Contributors:
-Chetan Bagri,
-Cameron Cho,
-Cameron Davis,
-Zack Mazaheri,
-Mitch Pi,
-Mahum Syed,
-Matthew Shapiro,
-Steven Wang
